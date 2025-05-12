@@ -1,12 +1,15 @@
-# 👨‍💻 Full Stack Developer | Backend Specialist
+<h1 align="center">Hi there 👋, I'm Melo</h1>
 
-Olá! Sou um desenvolvedor Full Stack com foco em **backend**, apaixonado por criar soluções escaláveis, performáticas e seguras. Com sólida experiência em desenvolvimento web, APIs RESTful e microsserviços, trabalho com diversas tecnologias modernas e ambientes em nuvem.
+<p align="center">
+  <b>Full Stack Developer | Backend Focused</b><br/>
+  Passionate about building scalable, efficient, and modern web solutions.
+</p>
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+## 🚀 Tech Stack
 
-### 💻 Linguagens & Frameworks
+### 💻 Languages & Frameworks
 
 #### Backend
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -32,7 +35,7 @@ Olá! Sou um desenvolvedor Full Stack com foco em **backend**, apaixonado por cr
 
 ---
 
-### 🛢️ Bancos de Dados
+### 🛢️ Databases
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -40,20 +43,35 @@ Olá! Sou um desenvolvedor Full Stack com foco em **backend**, apaixonado por cr
 
 ---
 
-## 🧠 Sobre Mim
+## 📊 GitHub Stats
 
-- Desenvolvedor com mentalidade de produto e foco em **resolução de problemas reais**.
-- Experiência em projetos **corporativos, escaláveis e seguros**.
-- Apto a atuar em todas as camadas da aplicação, com ênfase em **arquitetura de software** e **boas práticas backend**.
-- Interesse contínuo por **automação, arquitetura de microsserviços e cloud computing**.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Melo43-coder&show_icons=true&theme=tokyonight" alt="Melo's GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melo43-coder&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
 
 ---
 
-## 📫 Contato
+## 💡 About Me
+
+- 💼 Backend-focused Full Stack Developer
+- 🔍 Problem-solver and clean code enthusiast
+- 🧠 Loves API design, scalable architectures & cloud-based applications
+- 🌎 Always learning and exploring new tech stacks
+- 🤝 Open to collaboration on exciting projects
+
+---
+
+## 📫 Get in Touch
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/caíquegmelo/)
 - 📧 caique360melo@gmail.com
 
+
 ---
 
-Sinta-se à vontade para explorar meus repositórios e contribuir. 🚀
+> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+
