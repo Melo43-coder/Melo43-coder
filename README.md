@@ -51,9 +51,8 @@ Olá! Sou um desenvolvedor Full Stack com foco em **backend**, apaixonado por cr
 
 ## 📫 Contato
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario)
-- 📧 seu.email@exemplo.com
-- 🌐 [Portfólio](https://seu-portfolio.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/caíquegmelo/)
+- 📧 caique360melo@gmail.com
 
 ---
 
